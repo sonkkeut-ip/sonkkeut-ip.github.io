@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'ko' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title | escape }} · 장인 IP 매니지먼트</title>
+    <meta name="description" content="{{ site.description | escape }}">
+    <meta name="theme-color" content="#233e32">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ko_KR">
+    <meta property="og:title" content="{{ site.title | escape }} · 장인 IP 매니지먼트">
+    <meta property="og:description" content="{{ site.description | escape }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:card" content="summary">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">본문으로 바로가기</a>
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="손끝IP 홈">손끝<span>IP</span><small>SONKKEUT IP</small></a>
+      <nav aria-label="주요 메뉴">
+        <a href="#approach">하는 일</a>
+        <a href="#difference">우리의 원칙</a>
+        <a href="#roadmap">로드맵</a>
+        <a class="nav-contact" href="#contact">함께하기 <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+    <main id="main">{{ content }}</main>
+    <footer class="site-footer">
+      <a class="brand" href="{{ '/' | relative_url }}">손끝<span>IP</span></a>
+      <p>장인의 시간에, 새로운 가능성을.</p>
+      <small>© {{ 'now' | date: '%Y' }} 손끝IP · 모두의 창업 프로젝트 참여 아이디어</small>
+    </footer>
+  </body>
+</html>

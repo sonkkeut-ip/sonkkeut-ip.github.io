@@ -1,0 +1,16 @@
+title: 손끝IP
+description: 장인의 손끝에서 나온 기술을, 지켜지고 인정받는 자산으로. 지역 장인을 위한 IP 매니지먼트.
+url: https://sonkkeut-ip.github.io
+baseurl: ""
+lang: ko
+markdown: kramdown
+kramdown:
+  input: GFM
+# 실제 문의 이메일을 입력하면 문의 버튼이 자동으로 표시됩니다.
+email: ""
+exclude:
+  - README.md
+  - sonkkeut-ip-homepage.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
