@@ -9,6 +9,16 @@
 - `_config.yml`: 사이트 제목, 설명, 주소, 문의 이메일. `email`에 실제 주소를 입력하면 문의 버튼이 표시됩니다.
 - `assets/css/style.css`: 색상, 글꼴, 반응형 화면 구성.
 - `_layouts/default.html`: 공통 메뉴, 검색·공유 메타 정보, 푸터.
+- `assets/pics/`: 홈페이지 설명 이미지. 원본 비율을 유지하며 화면 너비에 맞게 표시합니다.
+
+### 이미지 배치
+
+| 파일 | 홈페이지 위치 |
+| --- | --- |
+| `artisan-support-gaps.png` | 우리가 시작하는 이유 — 장인 지원의 단절 |
+| `artisan-ip-management-cycle.png` | 손끝IP가 하는 일 — 통합 지원 과정 |
+| `artisan-revenue-sharing.png` | 지속 가능한 수익 구조 — 기술 활용과 수익 배분 |
+| `craft-knowledge-succession.png` | 우리가 그리는 다음 — 기술 기록·전승·사업화 |
 
 ## GitHub Pages 배포
 

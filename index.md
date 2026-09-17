@@ -28,6 +28,11 @@ title: 손끝IP
 수십 년간 한 분야를 지켜 온 지역 장인들.<br>그 깊은 기술이 더 넓은 세상과 만나기 위해 넘어야 할 세 가지 벽이 있습니다.
 {: .section-intro }
 
+<figure class="section-diagram">
+  <img src="{{ '/assets/pics/artisan-support-gaps.png' | relative_url }}" alt="장인을 중심으로 인정, 권리 보호, 계약과 수익, 교육 지원이 끊어진 선으로 연결된 도식" width="1672" height="941" loading="lazy" decoding="async">
+  <figcaption>인정부터 권리 보호와 수익까지, 장인에게 필요한 지원은 아직 따로 떨어져 있습니다.</figcaption>
+</figure>
+
 <div class="cards three" markdown="1">
 <article class="card" markdown="1">
 <span class="card-number">01</span>
@@ -69,6 +74,11 @@ title: 손끝IP
 
 끊겨 있던 지원을 연결해 장인의 다음 걸음을 함께 준비합니다.
 {: .section-intro }
+
+<figure class="section-diagram">
+  <img src="{{ '/assets/pics/artisan-ip-management-cycle.png' | relative_url }}" alt="경력과 기술 정리, 인정, 권리 보호, 사업화가 협력 주체를 중심으로 순환하는 통합 지원 도식" width="1672" height="941" loading="lazy" decoding="async">
+  <figcaption>경력과 기술의 정리에서 인정·권리화·사업화까지, 하나의 흐름으로 연결합니다.</figcaption>
+</figure>
 
 <div class="cards four" markdown="1">
 <article class="step" markdown="1">
@@ -140,6 +150,11 @@ title: 손끝IP
 장인의 기술과 시장의 필요를 연결하는 다섯 가지 사업 모델을 준비합니다.
 {: .section-intro }
 
+<figure class="section-diagram">
+  <img src="{{ '/assets/pics/artisan-revenue-sharing.png' | relative_url }}" alt="장인의 기술이 관리와 계약을 거쳐 기업, 상품, 교육으로 확장되고 수익이 장인에게 돌아오는 구조" width="1672" height="941" loading="lazy" decoding="async">
+  <figcaption>기술의 활용을 넓히고, 만들어진 수익이 다시 장인에게 돌아오는 구조를 지향합니다.</figcaption>
+</figure>
+
 <div class="revenue-table" markdown="1">
 
 | 수익원 | 연결하는 가치 |
@@ -160,6 +175,11 @@ title: 손끝IP
 
 손끝IP는 현재 아이디어 단계입니다. 다음의 순서로 사업을 구체화할 계획입니다.
 {: .section-intro }
+
+<figure class="section-diagram">
+  <img src="{{ '/assets/pics/craft-knowledge-succession.png' | relative_url }}" alt="손으로 만드는 기술을 디지털로 기록하고 다음 세대에 전수하며 상품과 수익으로 확장해 다시 교육에 연결하는 흐름" width="1672" height="941" loading="lazy" decoding="async">
+  <figcaption>기술의 기록과 전승이 새로운 사업으로 이어지고, 다음 세대를 키우는 바탕이 됩니다.</figcaption>
+</figure>
 
 <div class="cards three" markdown="1">
 <article class="milestone" markdown="1">
